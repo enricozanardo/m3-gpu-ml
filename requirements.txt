@@ -1,6 +1,6 @@
+tensorflow[and-cuda]
 tensorflow
-# tensorflow-macos
-tensorflow-metal
+# tensorflow-metal
 matplotlib
 numpy
 scikit-learn
