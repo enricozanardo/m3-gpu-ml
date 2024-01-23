@@ -5,3 +5,5 @@ matplotlib
 numpy
 scikit-learn
 tensorflow_addons
+tqdm
+ipywidgets
