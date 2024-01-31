@@ -1,4 +1,4 @@
-tensorflow[and-cuda]
+# tensorflow[and-cuda]
 tensorflow
 # tensorflow-metal
 matplotlib
@@ -7,3 +7,12 @@ scikit-learn
 tensorflow_addons
 tqdm
 ipywidgets
+gradio
+gradio_pdf
+pdf2image
+transformers
+pytesseract
+torch 
+torchvision 
+torchaudio
+flax
