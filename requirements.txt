@@ -3,6 +3,7 @@ tensorflow
 # tensorflow-metal
 matplotlib
 numpy
+pyarrow
 scikit-learn
 tensorflow_addons
 tqdm
